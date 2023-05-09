@@ -1,0 +1,361 @@
+[{
+  "_id": {
+    "$oid": "6459a11da2017ee9ca6cc108"
+  },
+  "title": "Movie 1",
+  "rating": "3",
+  "releaseDate": "2023-05-05",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:25:49.128Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:25:49.128Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a12da2017ee9ca6cc10a"
+  },
+  "title": "Movie 2",
+  "rating": "7",
+  "releaseDate": "2023-05-14",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:26:05.077Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:26:05.077Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a137a2017ee9ca6cc10c"
+  },
+  "title": "Movie 3",
+  "rating": "4",
+  "releaseDate": "2023-05-18",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:26:15.728Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:26:15.728Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a148a2017ee9ca6cc10e"
+  },
+  "title": "Movie 4",
+  "rating": "34",
+  "releaseDate": "2025-05-24",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:26:32.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:26:32.225Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a151a2017ee9ca6cc110"
+  },
+  "title": "Movie 5",
+  "rating": "2",
+  "releaseDate": "2023-05-19",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:26:41.651Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:26:41.651Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a222a2017ee9ca6cc115"
+  },
+  "title": "Movie 6",
+  "rating": "2",
+  "releaseDate": "2023-05-04",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:30:10.105Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:30:10.105Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a22da2017ee9ca6cc117"
+  },
+  "title": "Movie 7",
+  "rating": "9",
+  "releaseDate": "2023-06-02",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:30:21.236Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:30:21.236Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a23da2017ee9ca6cc119"
+  },
+  "title": "Movie 7",
+  "rating": "2",
+  "releaseDate": "2023-05-03",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:30:37.150Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:30:37.150Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a257a2017ee9ca6cc11c"
+  },
+  "title": "Movie 8",
+  "rating": "5",
+  "releaseDate": "2023-05-04",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:31:03.533Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:31:03.533Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a262a2017ee9ca6cc11e"
+  },
+  "title": "Movie 9",
+  "rating": "2",
+  "releaseDate": "2023-05-25",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:31:14.243Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:31:14.243Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a26ba2017ee9ca6cc120"
+  },
+  "title": "Movie 10",
+  "rating": "8",
+  "releaseDate": "2023-05-21",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:31:23.768Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:31:23.768Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a274a2017ee9ca6cc122"
+  },
+  "title": "Movie 11",
+  "rating": "3",
+  "releaseDate": "2023-05-19",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:31:32.046Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:31:32.046Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a27da2017ee9ca6cc124"
+  },
+  "title": "Movie 12",
+  "rating": "6",
+  "releaseDate": "2023-05-05",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:31:41.875Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:31:41.875Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a287a2017ee9ca6cc126"
+  },
+  "title": "Movie 13",
+  "rating": "5",
+  "releaseDate": "2023-05-13",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:31:51.303Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:31:51.303Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a291a2017ee9ca6cc128"
+  },
+  "title": "Movie 14",
+  "rating": "6",
+  "releaseDate": "2023-05-19",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:32:01.901Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:32:01.901Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a29ca2017ee9ca6cc12a"
+  },
+  "title": "Movie 15",
+  "rating": "8",
+  "releaseDate": "2023-05-20",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:32:12.209Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:32:12.209Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a2a3a2017ee9ca6cc12c"
+  },
+  "title": "Movie 16",
+  "rating": "3",
+  "releaseDate": "2023-05-28",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:32:19.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:32:19.857Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a2aba2017ee9ca6cc12e"
+  },
+  "title": "Movie 17",
+  "rating": "7",
+  "releaseDate": "2023-05-21",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:32:27.051Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:32:27.051Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a2b2a2017ee9ca6cc130"
+  },
+  "title": "Movie 18",
+  "rating": "3",
+  "releaseDate": "2023-06-04",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:32:34.078Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:32:34.078Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a2bfa2017ee9ca6cc132"
+  },
+  "title": "Movie 19",
+  "rating": "2",
+  "releaseDate": "2023-06-04",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:32:47.941Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:32:47.941Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a2c9a2017ee9ca6cc134"
+  },
+  "title": "Movie 20",
+  "rating": "8",
+  "releaseDate": "2023-05-21",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:32:57.248Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:32:57.248Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a3c6a2017ee9ca6cc139"
+  },
+  "title": "Movie 21",
+  "rating": "34",
+  "releaseDate": "2023-05-06",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:37:10.703Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:37:10.703Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a591494f084e95d987d8"
+  },
+  "title": "Movie 22",
+  "rating": "7",
+  "releaseDate": "2023-05-13",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:44:49.214Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:44:49.214Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6459a5fa494f084e95d987dd"
+  },
+  "title": "Movie 24",
+  "rating": "8",
+  "releaseDate": "2023-05-05",
+  "thumbnail": "https://via.placeholder.com/150",
+  "createdAt": {
+    "$date": "2023-05-09T01:46:34.257Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-09T01:46:34.257Z"
+  },
+  "__v": 0
+}]
